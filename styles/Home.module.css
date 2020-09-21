@@ -1,0 +1,37 @@
+.title {
+    font-family: Courgette;
+    padding: 30px;
+    color: #FF7242;
+    font-weight: 900;
+    font-size: 72px;
+}
+
+.description {
+    padding: 30px;
+}
+
+.links {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-flow: row;
+
+}
+
+.items:hover {
+    color: #FF7242;
+}
+
+.items {
+    padding: 30px;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
